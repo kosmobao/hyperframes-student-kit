@@ -1,0 +1,27 @@
+# Raw source footage
+assets/*.mp4
+assets/*.mp4:Zone.Identifier
+
+# Rendered video outputs
+assets/edit/*.mp4
+assets/edit/*.mp4:Zone.Identifier
+
+# Overlay WebM renders (large, regeneratable)
+assets/edit/animations/**/*.webm
+
+# Frame PNG sequences (regeneratable from WebM)
+assets/edit/animations/**/*.png
+assets/edit/animations/**/blank.png
+assets/edit/animations/**/gap.png
+
+# Per-segment preview clips
+assets/edit/clips_preview/
+
+# Verification frame exports
+assets/edit/verify/
+
+# Binary font files (loaded at render time, not authored here)
+assets/edit/fonts/
+
+# Installed skill packages (regeneratable: npx skills add heygen-com/hyperframes)
+.claude/skills/

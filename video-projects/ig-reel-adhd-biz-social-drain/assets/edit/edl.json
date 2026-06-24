@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "sources": {
+    "raw-take-03": "/home/allan_pc/projects/pa-video-workshop/hyperframes/video-projects/ig-reel-adhd-biz-social-drain/assets/raw-take-03.mp4"
+  },
+  "ranges": [
+    {
+      "source": "raw-take-03",
+      "start": 1.07,
+      "end": 3.68,
+      "beat": "OPEN",
+      "quote": "So, I have this friend who, she has ADHD.",
+      "reason": "Clean opener. Ends before Um,"
+    },
+    {
+      "source": "raw-take-03",
+      "start": 4.41,
+      "end": 4.73,
+      "beat": "OPEN",
+      "quote": "she's a",
+      "reason": "Resume after Um, gap. Ends before busi- false start."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 5.17,
+      "end": 16.99,
+      "beat": "SETUP",
+      "quote": "business owner. So, she likes to go around, you know, travel around, whether within Singapore or just fly overseas. And super interesting thing I really discover about her is that she's very, very",
+      "reason": "Covers intro + travel. Ends just before en- false start."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 17.49,
+      "end": 21.22,
+      "beat": "SETUP",
+      "quote": "energetic when she's around other groups of people, whether it's at,",
+      "reason": "Resumes after en- false start. Ends before um, you know filler."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 22.17,
+      "end": 29.01,
+      "beat": "SETUP",
+      "quote": "informal settings at dinners or formal networking events, panels and such. But the moment she reaches home,",
+      "reason": "Resumes after um-you-know. Natural air preserved through sentence end."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 30.05,
+      "end": 30.97,
+      "beat": "TURN",
+      "quote": "crashes.",
+      "reason": "Dramatic beat. Start 150ms before word for tight pause after home,."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 32.67,
+      "end": 33.50,
+      "beat": "TURN",
+      "quote": "Super tired.",
+      "reason": "150ms before word keeps rhythm tight. Ends before Mm. filler."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 39.63,
+      "end": 41.69,
+      "beat": "OBSERVATION",
+      "quote": "So, the super interesting thing was that,",
+      "reason": "Resumes after Mm. and 4.6s dead air. Ends before fragmented restart."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 45.43,
+      "end": 52.93,
+      "beat": "OBSERVATION",
+      "quote": "this keeps happening to her regardless of whether she really, really, really enjoyed the company that she was with,",
+      "reason": "Jumps past that-I-observed-is-that you-know restart. Clean join."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 53.79,
+      "end": 54.41,
+      "beat": "OBSERVATION",
+      "quote": "the food.",
+      "reason": "Cuts you know, filler at front. Keeps texture detail."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 55.99,
+      "end": 64.18,
+      "beat": "OBSERVATION",
+      "quote": "everything was good. Regardless of how good it was, when she gets back home, flat. Exhausted. Every time.",
+      "reason": "Cuts You know, filler. Includes full payoff sequence. Ends before 5s dead air."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 69.19,
+      "end": 75.01,
+      "beat": "INSIGHT",
+      "quote": "So, what I really discovered is that she has this battery within her that is,",
+      "reason": "Resumes after dead air. Ends before um, you know filler."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 75.39,
+      "end": 76.65,
+      "beat": "INSIGHT",
+      "quote": "a life force battery",
+      "reason": "Resumes after um-you-know. Ends before isolated that + dead air."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 79.51,
+      "end": 82.24,
+      "beat": "INSIGHT",
+      "quote": "is not really... For her, it's not a consistent battery.",
+      "reason": "Cuts isolated that and 0.78s dead air. Joins cleanly: ...life force battery is not really..."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 84.97,
+      "end": 100.10,
+      "beat": "EXPLANATION",
+      "quote": "it's very easily affected by other people's life force battery. So, that explains why when she's around other energetic people outside, they are high, they are good, she's happy, she's high together with them.",
+      "reason": "Cuts isolated And + gap. Continuous delivery through end of payoff."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 104.22,
+      "end": 116.62,
+      "beat": "EXPLANATION",
+      "quote": "that's why when she reaches home, she's like, Oh there's nobody around to raise my energy. She's just dead tired. That happens so often. So, that was really, really interesting.",
+      "reason": "Cuts And + 2s dead air + also when, restart. Joins at thats-why."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 117.37,
+      "end": 121.62,
+      "beat": "CTA",
+      "quote": "I mean, if you have a similar experience, feel free to share.",
+      "reason": "Cuts And, filler. Ends before Yeah. filler."
+    },
+    {
+      "source": "raw-take-03",
+      "start": 122.19,
+      "end": 123.06,
+      "beat": "CTA",
+      "quote": "Super interesting.",
+      "reason": "Clean close after cutting Yeah."
+    }
+  ],
+  "grade": "colorbalance=rs=0.02:gs=0.005:bs=-0.025:rm=0.025:gm=0.005:bm=-0.01:rh=0.02:gh=0.0:bh=-0.015,curves=master='0/0.04 0.5/0.525 1/0.975',eq=saturation=1.04",
+  "overlays": [
+    {
+      "file": "animations/hook/hook.webm",
+      "start_in_output": 0.0,
+      "duration": 2.5
+    },
+    {
+      "file": "animations/captions/captions.webm",
+      "start_in_output": 0.0,
+      "duration": 88.2
+    }
+  ],
+  "total_duration_s": 88.2
+}
